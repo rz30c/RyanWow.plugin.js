@@ -1,2 +1,0 @@
-# RyanWow.plugin.js
-. . . .
